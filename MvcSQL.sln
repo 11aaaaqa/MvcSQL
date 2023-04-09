@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcSQL", "MvcSQL.csproj", "{8B88BFAB-3C88-4AD4-A4F0-3E056FE0035B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B88BFAB-3C88-4AD4-A4F0-3E056FE0035B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B88BFAB-3C88-4AD4-A4F0-3E056FE0035B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B88BFAB-3C88-4AD4-A4F0-3E056FE0035B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B88BFAB-3C88-4AD4-A4F0-3E056FE0035B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C87E684-F0F5-4F2A-85EF-7D5DB71A7829}
+	EndGlobalSection
+EndGlobal
